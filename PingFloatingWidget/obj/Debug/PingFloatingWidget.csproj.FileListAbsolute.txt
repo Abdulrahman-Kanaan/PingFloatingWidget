@@ -1,0 +1,59 @@
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget\PingFloatingWidget\bin\Debug\PingFloatingWidget.exe.config
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget\PingFloatingWidget\bin\Debug\PingFloatingWidget.exe
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget\PingFloatingWidget\bin\Debug\PingFloatingWidget.pdb
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget\PingFloatingWidget\obj\Debug\PingFloatingWidget.csprojAssemblyReference.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget\PingFloatingWidget\obj\Debug\PingFloatingWidget.Form1.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget\PingFloatingWidget\obj\Debug\PingFloatingWidget.Properties.Resources.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget\PingFloatingWidget\obj\Debug\PingFloatingWidget.csproj.GenerateResource.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget\PingFloatingWidget\obj\Debug\PingFloatingWidget.csproj.CoreCompileInputs.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget\PingFloatingWidget\obj\Debug\PingFloatingWidget.exe
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget\PingFloatingWidget\obj\Debug\PingFloatingWidget.pdb
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget\PingFloatingWidget\obj\Debug\PingFloatingWidget.IP.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\bin\Debug\PingFloatingWidget.exe.config
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\bin\Debug\PingFloatingWidget.exe
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\bin\Debug\PingFloatingWidget.pdb
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.csprojAssemblyReference.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.Form1.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.IP.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.Properties.Resources.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.csproj.GenerateResource.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.csproj.CoreCompileInputs.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.exe
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.pdb
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 3.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.about.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\bin\Debug\PingFloatingWidget.exe.config
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\bin\Debug\PingFloatingWidget.exe
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\bin\Debug\PingFloatingWidget.pdb
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.csprojAssemblyReference.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.about.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.Form1.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.IP.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.Properties.Resources.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.csproj.GenerateResource.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.csproj.CoreCompileInputs.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.exe
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0\PingFloatingWidget\obj\Debug\PingFloatingWidget.pdb
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\obj\Debug\PingFloatingWidget.csprojAssemblyReference.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\obj\Debug\PingFloatingWidget.about.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\obj\Debug\PingFloatingWidget.Form1.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\obj\Debug\PingFloatingWidget.IP.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\obj\Debug\PingFloatingWidget.Properties.Resources.resources
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\obj\Debug\PingFloatingWidget.csproj.GenerateResource.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\obj\Debug\PingFloatingWidget.csproj.CoreCompileInputs.cache
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\obj\Debug\PingFloatingWidget.exe
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\obj\Debug\PingFloatingWidget.pdb
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\bin\Debug\PingFloatingWidget.exe.config
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\bin\Debug\PingFloatingWidget.exe
+C:\Users\Nefasturris\Desktop\C#\PingFloatingWidget V 2.0 - Copy\PingFloatingWidget\bin\Debug\PingFloatingWidget.pdb
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\bin\Debug\PingFloatingWidget.exe.config
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\bin\Debug\PingFloatingWidget.exe
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\bin\Debug\PingFloatingWidget.pdb
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\obj\Debug\PingFloatingWidget.csprojAssemblyReference.cache
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\obj\Debug\PingFloatingWidget.about.resources
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\obj\Debug\PingFloatingWidget.Form1.resources
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\obj\Debug\PingFloatingWidget.IP.resources
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\obj\Debug\PingFloatingWidget.Properties.Resources.resources
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\obj\Debug\PingFloatingWidget.csproj.GenerateResource.cache
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\obj\Debug\PingFloatingWidget.csproj.CoreCompileInputs.cache
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\obj\Debug\PingFloatingWidget.exe
+D:\Google Drive\My Projects\PingFloatingWidget V 2.1\PingFloatingWidget\obj\Debug\PingFloatingWidget.pdb
