@@ -8,7 +8,7 @@ Easy to use just double click the program.<br>
 You can ping on any IP you want.<br>
 Many colors to use.<br>
 <br>
-![Image](Capture.PNG)
+![Image](https://www2.0zz0.com/2019/12/17/15/973628446.png)
 
 ### How to use in games
 Run the program --> go to game settings --> change fullscreen to fullscreen(windowed) or windowed --> enjoy :).
